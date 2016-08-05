@@ -2,11 +2,13 @@
 
 Solution for "Mobile Device Keyboard" from http://asymmetrik.com/programming-challenges/
 
-Uses https://github.com/pytries/datrie 
+Depends on https://github.com/pytries/datrie 
 
 Built with Python 3.5.2 
 
-See [autocomplete.py](autocomplete.py)
+Main class is [autocomplete.py](autocomplete.py)
+
+Size and speed validation in [autocomplete_test.py](autocomplete_test.py)
  
 # Commentary 
 
